@@ -500,6 +500,39 @@ body{
 	}
 }
 @media screen and (max-width: 760px){
+	.header__main{
+		padding: 100px 20px;
+		width:100%;
+	}
+	.header__title{
+		font-size: 68px;
+		max-width: 100%;
+	}
+	.find__title{
+		font-size: 52px;
+	}
+	.exploer__title{
+		font-size: 46px;
+	}
+	.video{
+		padding: 100px 0;
+	}
+	.video__text{
+		font-size: 52px;
+	}
+	.header__button{
+		margin-bottom: 40px;
+	}
+	.social{
+		display: none;
+	}
+	.section{
+		padding: 40px 0;
+	}
+	.section__title{
+		font-size: 52px;
+		margin-bottom: 20px;
+	}
 	.exploer__text{
 		position: static;
 		transform: translateY(0);
@@ -517,6 +550,28 @@ body{
 
 }
 @media screen and (max-width: 560px){
+	.header__title{
+		font-size: 54px;
+	}
+	.section__title{
+		font-size: 32px;
+	}
+	.find__title{
+		font-size: 32px;
+	}
+	.exploer__title{
+		font-size: 30px;
+	}
+	.video{
+		padding: 75px 0;
+	}
+	.video__text{
+		font-size: 32px;
+	}
+	.video img{
+		width: 50px;
+		height: 50px;
+	}
 	.statics{
 		max-width: 300px;
 	}
