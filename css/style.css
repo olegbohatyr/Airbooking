@@ -585,3 +585,14 @@ body{
 		width:calc(100% / 12 * 10 - 30px);
 	}
 }
+@media screen and (max-width: 480px){
+	.logo{
+		font-size: 28px;
+	}
+	.header__title{
+		font-size: 38px;
+	}
+	.news{
+		min-width: 300px;
+	}
+}
