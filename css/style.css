@@ -595,4 +595,8 @@ body{
 	.news{
 		min-width: 300px;
 	}
+	.testimonial__text{
+		padding: 27px 20px 35px 20px;
+	}
+	
 }
